@@ -1,4 +1,4 @@
-class Piece:
+class piece:
     def __init__(self, piece_type, color, position):
         self.piece_type = piece_type
         self.color = color
